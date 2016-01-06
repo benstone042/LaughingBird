@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\libs\twitpic4j.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="486f00f4690ea65692899c7dc7727eea193eb6c3">
+        <dex dex="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\pre-dexed\debug\twitpic4j-d4943d18c56857130b76c0d3dc37b5b3baa3776e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\pre-dexed\debug\classes-2d2cc64426c76d14e082ea314e550d5409bd8a7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\pre-dexed\debug\classes-4c8d3cb13157691dbc7f4d116fafbd0e182824fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c104580887ef8f502a64332991d4f5615dcb347b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sujit yadav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-dfb9311fe81af78afb8a038d8874fac27d7507ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\libs\twitter4j-core-3.0.4-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="527b7b434b6f13baa19cabb84a90b0650aec11f8">
+        <dex dex="C:\Users\sujit yadav\AndroidStudioProjects\LaughingBird\app\build\intermediates\pre-dexed\debug\twitter4j-core-3.0.4-SNAPSHOT-8ed99dd6102617cc4be1a0657631d69760a1bef8.jar" />
+    </item>
+
+</items>
